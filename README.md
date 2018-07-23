@@ -58,3 +58,9 @@
 （8） 文章关注功能
 
 （9） 阅读次数统计
+
+(10) 用户相关的功能 、、待定
+
+### 技术选型
+
+dubbo python java spring mysql postgresql redis zookeeper 
