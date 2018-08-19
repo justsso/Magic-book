@@ -1,0 +1,16 @@
+{
+    "heard":{
+        "desc":"ok",
+        "code":"200"
+    },
+    "body":{
+        "articleName":"一篇文章",
+        "addTime":1534687782412,
+        "articleTheme":"java详情",
+        "articleFrom":"https://juejin.im/",
+        "addType":"BLOWEBSIE",
+        "articleClassification":"技术文章",
+        "articleUrl":"adsfasdfasdfefxdfwe",
+        "customStyle":"{格式未知}"
+    }
+}
